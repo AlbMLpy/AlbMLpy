@@ -2,8 +2,8 @@
 
 My name is Albert Saiapin and I am a Data Scientist and AI researcher in my free time.
 
-🔭 I’m currently working on projects in NLP and RecSys areas.
-📫 Reach me: [telegram](@Albpyml), [linkedin](https://www.linkedin.com/in/albert-sayapin/)
+- 🔭 I’m currently working on projects in NLP and RecSys areas.
+- 📫 Reach me: [telegram](@Albpyml), [linkedin](https://www.linkedin.com/in/albert-sayapin/)
 
 ### Skills
 
