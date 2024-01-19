@@ -1,5 +1,7 @@
 # Hello guys! <img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">
 
+<img src="https://github.com/AlbMLpy/AlbMLpy/blob/main/cool.gif" width="500" height="200" />
+
 My name is Albert Saiapin and I am a Data Scientist and AI researcher in my free time.
 
 - 🔭 I’m currently working on projects in NLP and RecSys areas.
