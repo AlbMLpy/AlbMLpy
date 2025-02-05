@@ -1,4 +1,5 @@
 # Hello, I'm Albert! 👋
+![](cool.gif)
 
 Welcome to my GitHub profile! I'm a currently working on my PhD in Machine Learning, passionate about Sustainable Machine Learning with a particular focus on Tensor Networks based methods and Uncertainty Estimation in ML. I love solving problems, collaborating on open-source projects, and learning new technologies in my free time. 
 
